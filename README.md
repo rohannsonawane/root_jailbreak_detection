@@ -1,6 +1,6 @@
 # root_detection
 
-A new Flutter plugin project.
+A Flutter plugin project for check the device is rooted (has root/su access).
 
 ## Getting Started
 
