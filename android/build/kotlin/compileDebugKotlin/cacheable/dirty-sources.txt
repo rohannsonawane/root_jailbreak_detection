@@ -1,0 +1,2 @@
+/Users/rohans/Desktop/projects/plugins/root_detection/android/src/main/kotlin/com/example/root_detection/RootDetectionPlugin.kt
+/Users/rohans/Desktop/projects/plugins/root_detection/android/src/main/kotlin/com/example/root_detection/RootDetectionPlugin copy.kt

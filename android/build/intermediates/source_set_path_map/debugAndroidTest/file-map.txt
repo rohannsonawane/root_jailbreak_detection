@@ -1,0 +1,5 @@
+com.example.root_detection.test-androidTest-0 /Users/rohans/Desktop/projects/plugins/root_detection/android/build/generated/res/resValues/androidTest/debug
+com.example.root_detection.test-mergeDebugAndroidTestResources-1 /Users/rohans/Desktop/projects/plugins/root_detection/android/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.root_detection.test-mergeDebugAndroidTestResources-2 /Users/rohans/Desktop/projects/plugins/root_detection/android/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.root_detection.test-merged_res-3 /Users/rohans/Desktop/projects/plugins/root_detection/android/build/intermediates/merged_res/debugAndroidTest
+com.example.root_detection.test-packaged_res-4 /Users/rohans/Desktop/projects/plugins/root_detection/android/build/intermediates/packaged_res/debug
